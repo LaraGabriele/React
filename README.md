@@ -1,2 +1,0 @@
-# React
-Projeto Cards - organo
